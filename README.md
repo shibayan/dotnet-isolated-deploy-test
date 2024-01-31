@@ -1,0 +1,1 @@
+# dotnet-isolated-deploy-test
